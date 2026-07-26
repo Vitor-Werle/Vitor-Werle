@@ -1,6 +1,6 @@
 # 👨‍💻​ Vitor Werle
 
-**`Software Engeneer Student`**
+**`Software Engineering Student`**
 
 Hello! I'm Vitor Werle, a Software Engineering student from Brazil with a strong interest in software development, embedded systems, and automation. I believe the best way to learn is by building real projects, so this GitHub is where I document my learning journey and share the projects I'm developing. Currently, I'm improving my skills in Python, Arduino, IoT, and English while working toward a career in technology.
 
@@ -76,15 +76,28 @@ Hello! I'm Vitor Werle, a Software Engineering student from Brazil with a strong
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 GitHub status
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=vitor-werle&theme=tokyonight&show_icons=true&&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=vitor-werle&theme=tokyonight&show_icons=true&&include_all_commits=true&locale=en" 
   />
-
 </p>
+
+<br/>
+
+---
+
+## 🚀 Philosophy
+
+> "Engineering is turning ideas into reliable solutions." 
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
+
