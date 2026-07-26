@@ -6,7 +6,7 @@ Hello! I'm Vitor Werle, a Software Engineering student from Brazil with a strong
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Languages & Tools
 
 <img 
     align="left" 
@@ -94,7 +94,7 @@ Hello! I'm Vitor Werle, a Software Engineering student from Brazil with a strong
 
 ## 🚀 Philosophy
 
-> "Engineering is turning ideas into reliable solutions." 
+> _"True learning is what remains after the lessons become experience."_
 
 ---
 
