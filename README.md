@@ -98,6 +98,5 @@ Hello! I'm Vitor Werle, a Software Engineering student from Brazil with a strong
 
 ---
 
-⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
 
