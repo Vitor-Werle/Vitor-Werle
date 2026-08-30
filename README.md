@@ -76,19 +76,7 @@ Hello! I'm Vitor Werle, a Software Engineering student from Brazil with a strong
 <br/>
 <br/>
 
-### 📊 GitHub status
 
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=vitor-werle&theme=tokyonight&show_icons=true&&include_all_commits=true&locale=en" 
-  />
-</p>
-
-<br/>
 
 ---
 
