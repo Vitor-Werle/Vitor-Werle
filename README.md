@@ -1,90 +1,51 @@
-# 👨‍💻​ Vitor Werle
+<div align="center">
 
-**`Software Engineering Student`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header" width="100%"/>
 
-Hello! I'm Vitor Werle, a Software Engineering student from Brazil with a strong interest in software development, embedded systems, and automation. I believe the best way to learn is by building real projects, so this GitHub is where I document my learning journey and share the projects I'm developing. Currently, I'm improving my skills in Python, Arduino, IoT, and English while working toward a career in technology.
+</div>
 
----
+## 👋 Sobre mim
 
-### 🛠️ Languages & Tools
+Sou o **Vitor Werle**, estudante de Engenharia de Software no Brasil, com forte interesse em desenvolvimento de software, sistemas embarcados e automação.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Acredito que a melhor forma de aprender é construindo projetos reais — por isso este GitHub é onde documento minha jornada de aprendizado e compartilho o que venho desenvolvendo. Atualmente estou aprimorando minhas habilidades em **Python, Arduino, IoT** e inglês, enquanto sigo em direção a uma carreira em tecnologia.
 
-<br/>
-<br/>
+- 🐍 Atualmente aprimorando meus conhecimentos em Python
+- 🔌 Estudando IoT e sistemas embarcados
+- 🤖 Interessado em automação e sistemas inteligentes
+- 🤝 Aberto a colaborações, parcerias e ideias legais
+- 📫 Contato: [LinkedIn](https://linkedin.com/in/vitor-werle)
+
+> *"O verdadeiro aprendizado é o que resta depois que as lições se tornam experiência."*
+
+<br>
+
+## 🛠️ Linguagens & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,git,arduino,cpp&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 Estatísticas do GitHub
 
 
 
----
+</div>
 
-## 🚀 Philosophy
+<div align="center">
 
-> _"True learning is what remains after the lessons become experience."_
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Werle&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-🤝 Always open to collaborations, partnerships, and cool ideas
+<br>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vitor-Werle&color=6C63FF&style=flat)
+
+</div>
