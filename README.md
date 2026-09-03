@@ -6,9 +6,9 @@
 
 ## 👋 Sobre mim
 
-Sou o **Vitor Werle**, estudante de Engenharia de Software no Brasil, com forte interesse em desenvolvimento de software, sistemas embarcados e automação.
+Sou o **Vitor Werle**, estudante de Engenharia de Software, com interesse em desenvolvimento de software, sistemas embarcados e machine learning.
 
-Acredito que a melhor forma de aprender é construindo projetos reais — por isso este GitHub é onde documento minha jornada de aprendizado e compartilho o que venho desenvolvendo. Atualmente estou aprimorando minhas habilidades em **Python, Arduino, IoT** e inglês, enquanto sigo em direção a uma carreira em tecnologia.
+Acredito que a melhor forma de aprender é construindo projetos reais — por isso este GitHub é onde documento minha jornada de aprendizado e compartilho o que venho desenvolvendo. Atualmente estou aprimorando minhas habilidades em **Python, Arduino, IoT** e inglês/Alemão, enquanto sigo em direção a uma carreira em tecnologia.
 
 - 🐍 Atualmente aprimorando meus conhecimentos em Python
 - 🔌 Estudando IoT e sistemas embarcados
