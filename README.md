@@ -4,37 +4,33 @@
 
 </div>
 
-## 👋 Sobre mim
+## 👋 About me
 
-Sou o **Vitor Werle**, estudante de Engenharia de Software, com interesse em desenvolvimento de software, sistemas embarcados e machine learning.
+I'm **Vitor Werle**, a Software Engineering student with an interest in software development, computer vision, and machine learning.
 
-Acredito que a melhor forma de aprender é construindo projetos reais — por isso este GitHub é onde documento minha jornada de aprendizado e compartilho o que venho desenvolvendo. Atualmente estou aprimorando minhas habilidades em **Python, Arduino, IoT** e inglês/Alemão, enquanto sigo em direção a uma carreira em tecnologia.
+I believe the best way to learn is by building real projects — that's why this GitHub is where I document my learning journey and share what I've been developing. I'm currently sharpening my skills in **Python, Machine Learning, YOLO**, and English/German, while working toward a career in tech.
 
-- 🐍 Atualmente aprimorando meus conhecimentos em Python
-- 🔌 Estudando IoT e sistemas embarcados
-- 🤖 Interessado em automação e sistemas inteligentes
-- 🤝 Aberto a colaborações, parcerias e ideias legais
-- 📫 Contato: [LinkedIn](https://linkedin.com/in/vitor-werle)
+-  Currently improving my Python skills
+-  Studying Machine Learning and computer vision
+-  Interested in object detection, neural networks, and real-world AI applications
+-  Open to collaborations, partnerships, and cool ideas
+-  Contact: [LinkedIn](https://linkedin.com/in/vitor-werle)
 
-> *"O verdadeiro aprendizado é o que resta depois que as lições se tornam experiência."*
+> *"True learning is what remains after the lessons become experience."*
 
 <br>
 
-## 🛠️ Linguagens & Ferramentas
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,git,arduino,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,tensorflow,css,js,git,arduino,cpp&theme=dark" />
 
 </div>
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-
-
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
