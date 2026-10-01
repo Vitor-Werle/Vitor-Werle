@@ -42,6 +42,5 @@ I believe the best way to learn is by building real projects — that's why this
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vitor-Werle&color=6C63FF&style=flat)
 
 </div>
